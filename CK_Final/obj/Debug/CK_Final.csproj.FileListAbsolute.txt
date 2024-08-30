@@ -1,0 +1,16 @@
+D:\VStudio\CK_Final\CK_Final\bin\Debug\CK_Final.exe.config
+D:\VStudio\CK_Final\CK_Final\bin\Debug\CK_Final.exe
+D:\VStudio\CK_Final\CK_Final\bin\Debug\CK_Final.pdb
+D:\VStudio\CK_Final\CK_Final\bin\Debug\EntityFramework.dll
+D:\VStudio\CK_Final\CK_Final\bin\Debug\EntityFramework.SqlServer.dll
+D:\VStudio\CK_Final\CK_Final\bin\Debug\EntityFramework.xml
+D:\VStudio\CK_Final\CK_Final\bin\Debug\EntityFramework.SqlServer.xml
+D:\VStudio\CK_Final\CK_Final\obj\Debug\CK_Final.csproj.AssemblyReference.cache
+D:\VStudio\CK_Final\CK_Final\obj\Debug\CK_Final.Properties.Resources.resources
+D:\VStudio\CK_Final\CK_Final\obj\Debug\CK_Final.View.DetailForm.resources
+D:\VStudio\CK_Final\CK_Final\obj\Debug\CK_Final.MainForm.resources
+D:\VStudio\CK_Final\CK_Final\obj\Debug\CK_Final.csproj.GenerateResource.cache
+D:\VStudio\CK_Final\CK_Final\obj\Debug\CK_Final.csproj.CoreCompileInputs.cache
+D:\VStudio\CK_Final\CK_Final\obj\Debug\CK_Final.csproj.Up2Date
+D:\VStudio\CK_Final\CK_Final\obj\Debug\CK_Final.exe
+D:\VStudio\CK_Final\CK_Final\obj\Debug\CK_Final.pdb
